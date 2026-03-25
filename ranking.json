@@ -1,0 +1,32 @@
+[
+  {
+    "name": "SteakkkGamer",
+    "region": "IN",
+    "tiers": {
+      "ltm": "HT1",
+      "vanilla": "HT1",
+      "uhc": "HT1",
+      "pot": "HT1",
+      "nethop": "HT1",
+      "smp": "HT1",
+      "sword": "HT1",
+      "axe": "HT1",
+      "mace": "HT1"
+    }
+  },
+  {
+    "name": "_EpicAdii",
+    "region": "IN",
+    "tiers": {
+      "ltm": "HT2",
+      "vanilla": "HT1",
+      "uhc": "HT2",
+      "pot": "HT3",
+      "nethop": "HT2",
+      "smp": "HT1",
+      "sword": "HT2",
+      "axe": "HT1",
+      "mace": "HT2"
+    }
+  }
+]

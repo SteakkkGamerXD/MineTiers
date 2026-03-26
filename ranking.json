@@ -5,7 +5,6 @@
     "discord_id": null,
     "verified": false,
     "tiers": {
-      "ltm": "N/A",
       "vanilla": "HT1",
       "uhc": "LT2",
       "pot": "HT1",
@@ -22,7 +21,6 @@
     "discord_id": null,
     "verified": false,
     "tiers": {
-      "ltm": "N/A",
       "vanilla": "LT3",
       "uhc": "LT1",
       "pot": "HT2",
@@ -39,7 +37,6 @@
     "discord_id": null,
     "verified": false,
     "tiers": {
-      "ltm": "N/A",
       "vanilla": "HT3",
       "uhc": "HT1",
       "pot": "LT2",
@@ -56,7 +53,6 @@
     "discord_id": null,
     "verified": false,
     "tiers": {
-      "ltm": "N/A",
       "vanilla": "HT4",
       "uhc": "HT3",
       "pot": "HT1",
@@ -73,7 +69,6 @@
     "discord_id": null,
     "verified": false,
     "tiers": {
-      "ltm": "N/A",
       "vanilla": "LT3",
       "uhc": "LT1",
       "pot": "LT2",
@@ -90,7 +85,6 @@
     "discord_id": null,
     "verified": false,
     "tiers": {
-      "ltm": "N/A",
       "vanilla": "LT3",
       "uhc": "LT3",
       "pot": "HT1",
@@ -107,7 +101,6 @@
     "discord_id": null,
     "verified": false,
     "tiers": {
-      "ltm": "N/A",
       "vanilla": "LT3",
       "uhc": "LT1",
       "pot": "LT2",
@@ -124,7 +117,6 @@
     "discord_id": null,
     "verified": false,
     "tiers": {
-      "ltm": "N/A",
       "vanilla": "HT2",
       "uhc": "LT3",
       "pot": "HT1",
@@ -141,7 +133,6 @@
     "discord_id": null,
     "verified": false,
     "tiers": {
-      "ltm": "N/A",
       "vanilla": "LT3",
       "uhc": "HT3",
       "pot": "HT3",
@@ -158,7 +149,6 @@
     "discord_id": null,
     "verified": false,
     "tiers": {
-      "ltm": "N/A",
       "vanilla": "LT3",
       "uhc": "HT1",
       "pot": "LT3",
@@ -175,7 +165,6 @@
     "discord_id": null,
     "verified": false,
     "tiers": {
-      "ltm": "N/A",
       "vanilla": "N/A",
       "uhc": "HT1",
       "pot": "LT3",
@@ -192,7 +181,6 @@
     "discord_id": null,
     "verified": false,
     "tiers": {
-      "ltm": "N/A",
       "vanilla": "LT4",
       "uhc": "LT3",
       "pot": "LT1",
@@ -201,6 +189,1414 @@
       "sword": "LT2",
       "axe": "LT4",
       "mace": "HT4"
+    }
+  },
+  {
+    "name": "Freekee_Fang",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "HT3",
+      "uhc": "HT2",
+      "pot": "HT3",
+      "nethop": "LT2",
+      "smp": "LT1",
+      "sword": "HT3",
+      "axe": "HT3",
+      "mace": "LT2"
+    }
+  },
+  {
+    "name": "Spawnplayer",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "HT2",
+      "pot": "HT3",
+      "nethop": "HT3",
+      "smp": "HT3",
+      "sword": "LT2",
+      "axe": "HT3",
+      "mace": "HT4"
+    }
+  },
+  {
+    "name": "Legendarryy",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "LT2",
+      "pot": "LT2",
+      "nethop": "HT3",
+      "smp": "HT1",
+      "sword": "LT2",
+      "axe": "HT3",
+      "mace": "LT3"
+    }
+  },
+  {
+    "name": "sashia2m",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "N/A",
+      "uhc": "LT3",
+      "pot": "LT1",
+      "nethop": "LT1",
+      "smp": "LT3",
+      "sword": "LT3",
+      "axe": "HT3",
+      "mace": "LT4"
+    }
+  },
+  {
+    "name": "Frxnkey",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "HT2",
+      "uhc": "HT1",
+      "pot": "LT3",
+      "nethop": "LT3",
+      "smp": "LT4",
+      "sword": "HT4",
+      "axe": "HT2",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "Hosthan",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "HT1",
+      "pot": "LT3",
+      "nethop": "LT3",
+      "smp": "LT3",
+      "sword": "LT2",
+      "axe": "HT2",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "Inapplicable",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "HT1",
+      "uhc": "N/A",
+      "pot": "HT1",
+      "nethop": "N/A",
+      "smp": "N/A",
+      "sword": "LT2",
+      "axe": "N/A",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "michaelcycle00",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "HT1",
+      "uhc": "N/A",
+      "pot": "LT2",
+      "nethop": "N/A",
+      "smp": "N/A",
+      "sword": "HT1",
+      "axe": "N/A",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "DiViiN3__TgsHalo",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "LT3",
+      "pot": "LT1",
+      "nethop": "LT2",
+      "smp": "HT2",
+      "sword": "LT2",
+      "axe": "LT4",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "Flowtives",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "HT1",
+      "pot": "HT3",
+      "nethop": "LT2",
+      "smp": "HT3",
+      "sword": "HT3",
+      "axe": "LT3",
+      "mace": "LT3"
+    }
+  },
+  {
+    "name": "Dishwasher1221",
+    "region": "SA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "HT3",
+      "pot": "LT3",
+      "nethop": "LT3",
+      "smp": "LT3",
+      "sword": "HT4",
+      "axe": "HT4",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "mamAloni",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "N/A",
+      "uhc": "HT1",
+      "pot": "N/A",
+      "nethop": "LT3",
+      "smp": "N/A",
+      "sword": "LT2",
+      "axe": "LT1",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "zivahlol",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "HT3",
+      "pot": "HT3",
+      "nethop": "HT3",
+      "smp": "HT1",
+      "sword": "LT3",
+      "axe": "LT2",
+      "mace": "LT3"
+    }
+  },
+  {
+    "name": "TryH4rdd",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "N/A",
+      "pot": "HT1",
+      "nethop": "N/A",
+      "smp": "N/A",
+      "sword": "HT1",
+      "axe": "N/A",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "ViviKaiMC",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "N/A",
+      "uhc": "HT1",
+      "pot": "N/A",
+      "nethop": "N/A",
+      "smp": "LT3",
+      "sword": "N/A",
+      "axe": "HT1",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "Svoen",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "LT3",
+      "pot": "LT3",
+      "nethop": "LT3",
+      "smp": "LT1",
+      "sword": "HT2",
+      "axe": "LT3",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "Reflex50",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "LT3",
+      "pot": "HT3",
+      "nethop": "HT1",
+      "smp": "LT3",
+      "sword": "HT2",
+      "axe": "HT4",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "360Mall",
+    "region": "AS",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "LT2",
+      "pot": "HT2",
+      "nethop": "LT3",
+      "smp": "LT2",
+      "sword": "HT3",
+      "axe": "HT3",
+      "mace": "LT3"
+    }
+  },
+  {
+    "name": "SixtyFive65",
+    "region": "AU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "N/A",
+      "uhc": "LT2",
+      "pot": "LT3",
+      "nethop": "LT3",
+      "smp": "LT1",
+      "sword": "LT2",
+      "axe": "LT2",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "Enlock",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "HT4",
+      "uhc": "HT3",
+      "pot": "HT3",
+      "nethop": "HT3",
+      "smp": "LT2",
+      "sword": "LT1",
+      "axe": "HT3",
+      "mace": "HT3"
+    }
+  },
+  {
+    "name": "Koharu89",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "HT2",
+      "pot": "HT3",
+      "nethop": "LT3",
+      "smp": "HT2",
+      "sword": "HT3",
+      "axe": "LT2",
+      "mace": "LT4"
+    }
+  },
+  {
+    "name": "Prusso",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "HT3",
+      "pot": "HT2",
+      "nethop": "HT3",
+      "smp": "LT3",
+      "sword": "LT1",
+      "axe": "LT3",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "TheRandomizer",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "HT4",
+      "uhc": "LT3",
+      "pot": "LT3",
+      "nethop": "LT3",
+      "smp": "LT3",
+      "sword": "LT3",
+      "axe": "HT1",
+      "mace": "LT3"
+    }
+  },
+  {
+    "name": "FerreMC",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "HT2",
+      "pot": "LT3",
+      "nethop": "LT3",
+      "smp": "HT2",
+      "sword": "HT4",
+      "axe": "LT2",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "C0RZZ",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "LT1",
+      "pot": "HT3",
+      "nethop": "HT3",
+      "smp": "HT3",
+      "sword": "LT3",
+      "axe": "LT2",
+      "mace": "LT4"
+    }
+  },
+  {
+    "name": "Evantii",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "HT1",
+      "uhc": "LT3",
+      "pot": "HT3",
+      "nethop": "LT3",
+      "smp": "LT3",
+      "sword": "LT3",
+      "axe": "LT3",
+      "mace": "LT3"
+    }
+  },
+  {
+    "name": "UccDawg",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT1",
+      "uhc": "HT4",
+      "pot": "LT3",
+      "nethop": "LT3",
+      "smp": "LT3",
+      "sword": "LT2",
+      "axe": "LT3",
+      "mace": "LT4"
+    }
+  },
+  {
+    "name": "badspelhr",
+    "region": "AU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "LT2",
+      "pot": "HT2",
+      "nethop": "LT3",
+      "smp": "LT2",
+      "sword": "LT2",
+      "axe": "LT3",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "JackerAcid",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "N/A",
+      "uhc": "LT2",
+      "pot": "LT3",
+      "nethop": "N/A",
+      "smp": "LT3",
+      "sword": "HT3",
+      "axe": "HT1",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "Kingbubr",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "N/A",
+      "uhc": "HT2",
+      "pot": "LT2",
+      "nethop": "HT3",
+      "smp": "LT2",
+      "sword": "LT2",
+      "axe": "LT3",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "Alexandzr",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "N/A",
+      "uhc": "LT3",
+      "pot": "LT3",
+      "nethop": "HT3",
+      "smp": "LT3",
+      "sword": "LT3",
+      "axe": "LT2",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "SuchSkills_Mx",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "N/A",
+      "uhc": "N/A",
+      "pot": "LT1",
+      "nethop": "N/A",
+      "smp": "N/A",
+      "sword": "HT1",
+      "axe": "N/A",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "Tqmen",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "N/A",
+      "uhc": "N/A",
+      "pot": "HT1",
+      "nethop": "N/A",
+      "smp": "N/A",
+      "sword": "LT2",
+      "axe": "N/A",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "Mentaider",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "N/A",
+      "uhc": "N/A",
+      "pot": "HT2",
+      "nethop": "LT1",
+      "smp": "N/A",
+      "sword": "HT2",
+      "axe": "N/A",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "Twohandsrevy",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "HT1",
+      "uhc": "N/A",
+      "pot": "N/A",
+      "nethop": "N/A",
+      "smp": "N/A",
+      "sword": "LT1",
+      "axe": "N/A",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "ceeew",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT1",
+      "uhc": "N/A",
+      "pot": "HT3",
+      "nethop": "LT3",
+      "smp": "LT3",
+      "sword": "HT4",
+      "axe": "LT4",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "CroneCrafter",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "LT1",
+      "pot": "LT3",
+      "nethop": "HT3",
+      "smp": "HT3",
+      "sword": "LT3",
+      "axe": "LT3",
+      "mace": "LT3"
+    }
+  },
+  {
+    "name": "JokingDK",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT2",
+      "uhc": "LT3",
+      "pot": "LT3",
+      "nethop": "HT3",
+      "smp": "HT2",
+      "sword": "LT3",
+      "axe": "LT3",
+      "mace": "HT4"
+    }
+  },
+  {
+    "name": "Ra1gn",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT4",
+      "uhc": "HT3",
+      "pot": "LT3",
+      "nethop": "LT3",
+      "smp": "LT3",
+      "sword": "LT3",
+      "axe": "HT1",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "ImRedz",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "LT3",
+      "pot": "LT3",
+      "nethop": "LT3",
+      "smp": "LT3",
+      "sword": "LT3",
+      "axe": "LT1",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "fwaggy",
+    "region": "AS",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "N/A",
+      "uhc": "LT2",
+      "pot": "LT3",
+      "nethop": "LT3",
+      "smp": "HT2",
+      "sword": "HT4",
+      "axe": "LT2",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "ShadowZeuss",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "LT2",
+      "pot": "HT3",
+      "nethop": "LT3",
+      "smp": "LT2",
+      "sword": "LT3",
+      "axe": "HT3",
+      "mace": "HT4"
+    }
+  },
+  {
+    "name": "Bqnnyy",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "N/A",
+      "uhc": "N/A",
+      "pot": "HT3",
+      "nethop": "HT2",
+      "smp": "N/A",
+      "sword": "HT1",
+      "axe": "N/A",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "Mxthi",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "N/A",
+      "uhc": "LT3",
+      "pot": "HT1",
+      "nethop": "LT3",
+      "smp": "N/A",
+      "sword": "LT2",
+      "axe": "HT4",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "CorruptNoob",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "HT3",
+      "uhc": "LT3",
+      "pot": "LT3",
+      "nethop": "LT3",
+      "smp": "LT1",
+      "sword": "LT3",
+      "axe": "LT3",
+      "mace": "LT3"
+    }
+  },
+  {
+    "name": "Paulinhq",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "HT2",
+      "pot": "HT3",
+      "nethop": "LT3",
+      "smp": "LT2",
+      "sword": "HT3",
+      "axe": "HT3",
+      "mace": "HT4"
+    }
+  },
+  {
+    "name": "K1RBE",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "HT1",
+      "uhc": "LT3",
+      "pot": "LT3",
+      "nethop": "LT3",
+      "smp": "HT4",
+      "sword": "LT3",
+      "axe": "LT4",
+      "mace": "LT3"
+    }
+  },
+  {
+    "name": "Leaferd",
+    "region": "AU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "HT4",
+      "uhc": "LT3",
+      "pot": "LT2",
+      "nethop": "LT3",
+      "smp": "LT3",
+      "sword": "HT2",
+      "axe": "LT3",
+      "mace": "HT5"
+    }
+  },
+  {
+    "name": "ph4ntic",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "HT4",
+      "uhc": "LT3",
+      "pot": "HT2",
+      "nethop": "HT3",
+      "smp": "LT2",
+      "sword": "HT3",
+      "axe": "LT3",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "SeeBoMWABASSSSSS",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT4",
+      "uhc": "HT2",
+      "pot": "LT3",
+      "nethop": "LT3",
+      "smp": "HT3",
+      "sword": "LT3",
+      "axe": "LT3",
+      "mace": "LT4"
+    }
+  },
+  {
+    "name": "sincerelyray",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "N/A",
+      "uhc": "HT3",
+      "pot": "LT3",
+      "nethop": "LT3",
+      "smp": "LT3",
+      "sword": "HT3",
+      "axe": "LT1",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "lilbizo",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "LT3",
+      "pot": "HT4",
+      "nethop": "LT2",
+      "smp": "LT1",
+      "sword": "LT3",
+      "axe": "LT3",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "supersuperpig",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "N/A",
+      "uhc": "LT2",
+      "pot": "N/A",
+      "nethop": "N/A",
+      "smp": "N/A",
+      "sword": "HT4",
+      "axe": "HT1",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "SmiGuy",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "N/A",
+      "uhc": "N/A",
+      "pot": "HT1",
+      "nethop": "N/A",
+      "smp": "N/A",
+      "sword": "HT2",
+      "axe": "N/A",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "Waltersillo",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "HT3",
+      "uhc": "N/A",
+      "pot": "HT3",
+      "nethop": "LT3",
+      "smp": "LT3",
+      "sword": "HT3",
+      "axe": "HT3",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "evesoki",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "LT3",
+      "pot": "LT1",
+      "nethop": "HT3",
+      "smp": "LT3",
+      "sword": "LT3",
+      "axe": "LT4",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "FatalDeath",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT4",
+      "uhc": "N/A",
+      "pot": "LT2",
+      "nethop": "HT2",
+      "smp": "LT4",
+      "sword": "LT3",
+      "axe": "LT4",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "r_adfan",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "HT3",
+      "pot": "HT3",
+      "nethop": "HT3",
+      "smp": "LT2",
+      "sword": "LT2",
+      "axe": "LT3",
+      "mace": "LT3"
+    }
+  },
+  {
+    "name": "1Wenzy",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "HT3",
+      "pot": "HT3",
+      "nethop": "LT3",
+      "smp": "LT2",
+      "sword": "LT3",
+      "axe": "HT3",
+      "mace": "HT4"
+    }
+  },
+  {
+    "name": "PUFFIERZ",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "HT3",
+      "uhc": "LT3",
+      "pot": "LT3",
+      "nethop": "LT3",
+      "smp": "LT3",
+      "sword": "HT4",
+      "axe": "HT4",
+      "mace": "LT2"
+    }
+  },
+  {
+    "name": "TooDrew",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "LT3",
+      "pot": "LT3",
+      "nethop": "LT3",
+      "smp": "LT3",
+      "sword": "HT4",
+      "axe": "LT1",
+      "mace": "LT5"
+    }
+  },
+  {
+    "name": "GothTripleYoshi",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "N/A",
+      "uhc": "HT3",
+      "pot": "LT3",
+      "nethop": "LT3",
+      "smp": "LT3",
+      "sword": "LT2",
+      "axe": "LT3",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "Madlogg",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "N/A",
+      "uhc": "LT2",
+      "pot": "N/A",
+      "nethop": "LT3",
+      "smp": "N/A",
+      "sword": "N/A",
+      "axe": "HT1",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "Kinngg",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT4",
+      "uhc": "HT4",
+      "pot": "HT3",
+      "nethop": "N/A",
+      "smp": "HT1",
+      "sword": "LT3",
+      "axe": "HT5",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "Gqlm",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT2",
+      "uhc": "LT3",
+      "pot": "HT2",
+      "nethop": "HT3",
+      "smp": "LT3",
+      "sword": "LT3",
+      "axe": "LT4",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "brhh",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "LT2",
+      "pot": "HT3",
+      "nethop": "HT3",
+      "smp": "HT3",
+      "sword": "LT3",
+      "axe": "HT3",
+      "mace": "HT4"
+    }
+  },
+  {
+    "name": "Camcal",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "HT2",
+      "uhc": "LT3",
+      "pot": "HT4",
+      "nethop": "LT3",
+      "smp": "LT3",
+      "sword": "HT4",
+      "axe": "N/A",
+      "mace": "LT4"
+    }
+  },
+  {
+    "name": "LEONALtheLION",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "LT3",
+      "pot": "HT3",
+      "nethop": "HT3",
+      "smp": "LT2",
+      "sword": "LT2",
+      "axe": "LT3",
+      "mace": "HT4"
+    }
+  },
+  {
+    "name": "idns",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "LT2",
+      "pot": "HT3",
+      "nethop": "LT3",
+      "smp": "LT3",
+      "sword": "LT3",
+      "axe": "LT3",
+      "mace": "HT4"
+    }
+  },
+  {
+    "name": "Viruslmao",
+    "region": "AS",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "HT3",
+      "uhc": "LT3",
+      "pot": "HT3",
+      "nethop": "LT3",
+      "smp": "LT2",
+      "sword": "LT3",
+      "axe": "LT3",
+      "mace": "LT3"
+    }
+  },
+  {
+    "name": "Turbinial",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "HT3",
+      "pot": "HT3",
+      "nethop": "LT3",
+      "smp": "HT3",
+      "sword": "HT3",
+      "axe": "LT3",
+      "mace": "LT2"
+    }
+  },
+  {
+    "name": "Jxydon",
+    "region": "AS",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "LT3",
+      "pot": "LT3",
+      "nethop": "LT3",
+      "smp": "HT3",
+      "sword": "LT3",
+      "axe": "LT3",
+      "mace": "HT2"
+    }
+  },
+  {
+    "name": "Ricardoxx_",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "HT2",
+      "pot": "LT3",
+      "nethop": "LT3",
+      "smp": "LT3",
+      "sword": "HT4",
+      "axe": "LT3",
+      "mace": "LT3"
+    }
+  },
+  {
+    "name": "Sancionw",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "LT3",
+      "pot": "HT3",
+      "nethop": "LT3",
+      "smp": "LT3",
+      "sword": "HT2",
+      "axe": "HT3",
+      "mace": "LT3"
+    }
+  },
+  {
+    "name": "frzntic",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "N/A",
+      "uhc": "HT2",
+      "pot": "LT3",
+      "nethop": "HT4",
+      "smp": "LT3",
+      "sword": "HT4",
+      "axe": "LT2",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "Rozacks",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "HT5",
+      "uhc": "HT2",
+      "pot": "HT3",
+      "nethop": "LT3",
+      "smp": "LT3",
+      "sword": "LT3",
+      "axe": "LT3",
+      "mace": "HT5"
+    }
+  },
+  {
+    "name": "show_y",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "N/A",
+      "uhc": "N/A",
+      "pot": "HT3",
+      "nethop": "HT1",
+      "smp": "N/A",
+      "sword": "HT4",
+      "axe": "N/A",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "Stooky",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "N/A",
+      "uhc": "LT3",
+      "pot": "LT3",
+      "nethop": "LT3",
+      "smp": "LT3",
+      "sword": "HT3",
+      "axe": "LT1",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "NBAPrisonGod6712",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT1",
+      "uhc": "HT4",
+      "pot": "LT3",
+      "nethop": "HT4",
+      "smp": "HT4",
+      "sword": "LT3",
+      "axe": "LT3",
+      "mace": "HT4"
+    }
+  },
+  {
+    "name": "LatinaRosaParks",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "LT3",
+      "pot": "LT3",
+      "nethop": "LT3",
+      "smp": "LT3",
+      "sword": "LT3",
+      "axe": "HT3",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "MarioComodore",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "HT5",
+      "uhc": "LT2",
+      "pot": "LT3",
+      "nethop": "LT3",
+      "smp": "LT3",
+      "sword": "LT3",
+      "axe": "LT3",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "Muov",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "HT5",
+      "uhc": "HT3",
+      "pot": "LT3",
+      "nethop": "HT3",
+      "smp": "LT2",
+      "sword": "LT3",
+      "axe": "HT3",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "Crozzor",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "HT3",
+      "pot": "HT3",
+      "nethop": "LT2",
+      "smp": "LT3",
+      "sword": "HT3",
+      "axe": "LT3",
+      "mace": "LT3"
+    }
+  },
+  {
+    "name": "cxctxs",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "LT3",
+      "pot": "HT3",
+      "nethop": "LT3",
+      "smp": "HT3",
+      "sword": "LT3",
+      "axe": "HT3",
+      "mace": "LT3"
+    }
+  },
+  {
+    "name": "Linnc",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "LT3",
+      "pot": "HT3",
+      "nethop": "HT3",
+      "smp": "LT3",
+      "sword": "HT4",
+      "axe": "LT3",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "CreyVictim3",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "HT3",
+      "uhc": "HT4",
+      "pot": "LT3",
+      "nethop": "LT3",
+      "smp": "LT4",
+      "sword": "HT4",
+      "axe": "LT4",
+      "mace": "LT3"
+    }
+  },
+  {
+    "name": "AiroKun",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "N/A",
+      "uhc": "LT2",
+      "pot": "LT3",
+      "nethop": "HT3",
+      "smp": "HT3",
+      "sword": "HT3",
+      "axe": "HT3",
+      "mace": "HT4"
+    }
+  },
+  {
+    "name": "BrokennHeartss",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "HT3",
+      "pot": "HT3",
+      "nethop": "LT3",
+      "smp": "LT3",
+      "sword": "LT3",
+      "axe": "HT3",
+      "mace": "LT5"
     }
   }
 ]

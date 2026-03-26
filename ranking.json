@@ -63,6 +63,22 @@
       "mace": "LT3"
     }
   },
+    {
+    "name": "SteakkkGamer",
+    "region": "IN",
+    "discord_id": 786550097059381268,
+    "verified": true,
+    "tiers": {
+      "vanilla": "LT3",
+      "uhc": "HT3",
+      "pot": "HT3",
+      "nethop": "HT2",
+      "smp": "HT3",
+      "sword": "HT2",
+      "axe": "HT2",
+      "mace": "LT3"
+    }
+  },
   {
     "name": "BlvckWlf",
     "region": "EU",

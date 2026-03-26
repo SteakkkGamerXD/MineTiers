@@ -1,271 +1,206 @@
 [
   {
-    "name": "SteakkkGamer",
-    "region": "IN",
+    "name": "ItzRealMe",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
     "tiers": {
-      "ltm": "HT1",
+      "ltm": "N/A",
       "vanilla": "HT1",
-      "uhc": "HT1",
+      "uhc": "LT2",
       "pot": "HT1",
       "nethop": "HT1",
       "smp": "HT1",
-      "sword": "HT1",
-      "axe": "HT1",
-      "combo": "HT2",
-      "mace": "HT1"
-    },
-    "discord_id": 786550097059381268,
-    "verified": true
+      "sword": "HT3",
+      "axe": "LT2",
+      "mace": "LT2"
+    }
   },
   {
-    "name": "_EpicAdii",
-    "region": "IN",
-    "tiers": {
-      "ltm": "HT2",
-      "vanilla": "HT1",
-      "uhc": "HT2",
-      "pot": "HT3",
-      "nethop": "HT2",
-      "smp": "HT1",
-      "sword": "HT2",
-      "axe": "HT1",
-      "mace": "HT2"
-    },
-    "discord_id": 1442896333878067341,
-    "verified": true
-  },
-  {
-    "name": "ZeorPlayzX_",
-    "region": "PK",
+    "name": "coldified",
+    "region": "EU",
     "discord_id": null,
     "verified": false,
-    "joined_at": "2026-03-25T08:12:16.284459+00:00",
     "tiers": {
-      "ltm": "HT1",
-      "vanilla": "HT5",
-      "uhc": "N/A",
-      "pot": "N/A",
-      "nethop": "N/A",
-      "smp": "N/A",
-      "sword": "N/A",
-      "axe": "N/A",
+      "ltm": "N/A",
+      "vanilla": "LT3",
+      "uhc": "LT1",
+      "pot": "HT2",
+      "nethop": "LT2",
+      "smp": "HT1",
+      "sword": "LT1",
+      "axe": "LT1",
+      "mace": "HT2"
+    }
+  },
+  {
+    "name": "Swight",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "ltm": "N/A",
+      "vanilla": "HT3",
+      "uhc": "HT1",
+      "pot": "LT2",
+      "nethop": "LT2",
+      "smp": "HT1",
+      "sword": "LT2",
+      "axe": "HT1",
+      "mace": "HT3"
+    }
+  },
+  {
+    "name": "janekv",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "ltm": "N/A",
+      "vanilla": "HT4",
+      "uhc": "HT3",
+      "pot": "HT1",
+      "nethop": "LT1",
+      "smp": "HT1",
+      "sword": "LT2",
+      "axe": "LT2",
+      "mace": "LT3"
+    }
+  },
+  {
+    "name": "BlvckWlf",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "ltm": "N/A",
+      "vanilla": "LT3",
+      "uhc": "LT1",
+      "pot": "LT2",
+      "nethop": "LT3",
+      "smp": "HT1",
+      "sword": "HT3",
+      "axe": "LT2",
+      "mace": "HT2"
+    }
+  },
+  {
+    "name": "Kylaz",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "ltm": "N/A",
+      "vanilla": "LT3",
+      "uhc": "LT3",
+      "pot": "HT1",
+      "nethop": "HT1",
+      "smp": "HT3",
+      "sword": "LT1",
+      "axe": "LT2",
       "mace": "N/A"
     }
   },
   {
-    "name": "Aditya0p_",
-    "region": "AS",
-    "discord_id": 1138353050415796265,
-    "verified": true,
-    "joined_at": "2026-03-25T08:39:24.434349+00:00",
+    "name": "ninorc15",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
     "tiers": {
-      "ltm": "HT1",
-      "vanilla": "HT1",
-      "uhc": "HT1",
+      "ltm": "N/A",
+      "vanilla": "LT3",
+      "uhc": "LT1",
+      "pot": "LT2",
+      "nethop": "LT2",
+      "smp": "LT2",
+      "sword": "LT2",
+      "axe": "HT3",
+      "mace": "LT2"
+    }
+  },
+  {
+    "name": "Lurrn",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "ltm": "N/A",
+      "vanilla": "HT2",
+      "uhc": "LT3",
       "pot": "HT1",
       "nethop": "HT1",
-      "smp": "HT1",
-      "sword": "HT1",
-      "axe": "HT1",
-      "mace": "HT1"
+      "smp": "N/A",
+      "sword": "LT2",
+      "axe": "LT4",
+      "mace": "N/A"
     }
   },
   {
-    "name": "Kutta",
+    "name": "Arsakha",
     "region": "AS",
-    "discord_id": 1138353050415796265,
-    "verified": true,
-    "joined_at": "2026-03-25T08:39:24.434349+00:00",
+    "discord_id": null,
+    "verified": false,
     "tiers": {
-      "ltm": "HT1",
-      "vanilla": "HT1",
-      "uhc": "LT1",
-      "pot": "HT5",
+      "ltm": "N/A",
+      "vanilla": "LT3",
+      "uhc": "HT3",
+      "pot": "HT3",
+      "nethop": "LT3",
+      "smp": "HT1",
+      "sword": "LT2",
+      "axe": "LT2",
+      "mace": "LT3"
+    }
+  },
+  {
+    "name": "yMiau",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "ltm": "N/A",
+      "vanilla": "LT3",
+      "uhc": "HT1",
+      "pot": "LT3",
+      "nethop": "LT3",
+      "smp": "LT1",
+      "sword": "LT3",
+      "axe": "HT3",
+      "mace": "LT3"
+    }
+  },
+  {
+    "name": "Juan_Clean",
+    "region": "NA",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "ltm": "N/A",
+      "vanilla": "N/A",
+      "uhc": "HT1",
+      "pot": "LT3",
+      "nethop": "LT3",
+      "smp": "LT3",
+      "sword": "HT3",
+      "axe": "LT1",
+      "mace": "N/A"
+    }
+  },
+  {
+    "name": "Deivi_17",
+    "region": "EU",
+    "discord_id": null,
+    "verified": false,
+    "tiers": {
+      "ltm": "N/A",
+      "vanilla": "LT4",
+      "uhc": "LT3",
+      "pot": "LT1",
       "nethop": "HT1",
-      "smp": "HT1",
-      "sword": "HT1",
-      "axe": "HT1",
-      "mace": "HT1"
-    }
-  },
-  {
-    "name": "ShadowBlitz",
-    "region": "EU",
-    "discord_id": 823456789012345678,
-    "verified": true,
-    "tiers": {
-      "ltm": "HT2","vanilla": "HT2","uhc": "HT3","pot": "HT2","nethop": "HT2","smp": "HT1","sword": "HT2","axe": "HT2","mace": "HT2"
-    }
-  },
-  {
-    "name": "VoidSlayer",
-    "region": "NA",
-    "discord_id": 923456789012345671,
-    "verified": true,
-    "tiers": {
-      "ltm": "HT1","vanilla": "HT1","uhc": "HT2","pot": "HT1","nethop": "HT1","smp": "HT2","sword": "HT1","axe": "HT1","mace": "HT1"
-    }
-  },
-  {
-    "name": "PixelHunter",
-    "region": "IN",
-    "discord_id": 723456789012345672,
-    "verified": false,
-    "tiers": {
-      "ltm": "HT3","vanilla": "HT2","uhc": "HT3","pot": "HT4","nethop": "HT3","smp": "HT2","sword": "HT2","axe": "HT3","mace": "HT3"
-    }
-  },
-  {
-    "name": "ClutchGod",
-    "region": "AS",
-    "discord_id": 623456789012345673,
-    "verified": true,
-    "tiers": {
-      "ltm": "HT1","vanilla": "HT1","uhc": "HT1","pot": "HT2","nethop": "HT1","smp": "HT1","sword": "HT1","axe": "HT1","mace": "HT2"
-    }
-  },
-  {
-    "name": "DragoonX",
-    "region": "EU",
-    "discord_id": 523456789012345674,
-    "verified": false,
-    "tiers": {
-      "ltm": "HT4","vanilla": "HT3","uhc": "HT4","pot": "HT3","nethop": "HT4","smp": "HT3","sword": "HT3","axe": "HT4","mace": "HT4"
-    }
-  },
-  {
-    "name": "NoobDestroyer",
-    "region": "IN",
-    "discord_id": 423456789012345675,
-    "verified": true,
-    "tiers": {
-      "ltm": "HT2","vanilla": "HT2","uhc": "HT2","pot": "HT3","nethop": "HT2","smp": "HT2","sword": "HT2","axe": "HT2","mace": "HT2"
-    }
-  },
-  {
-    "name": "FireAspect",
-    "region": "NA",
-    "discord_id": 323456789012345676,
-    "verified": true,
-    "tiers": {
-      "ltm": "HT1","vanilla": "HT2","uhc": "HT1","pot": "HT2","nethop": "HT1","smp": "HT1","sword": "HT1","axe": "HT1","mace": "HT1"
-    }
-  },
-  {
-    "name": "IceShard",
-    "region": "EU",
-    "discord_id": 223456789012345677,
-    "verified": false,
-    "tiers": {
-      "ltm": "HT3","vanilla": "HT4","uhc": "HT3","pot": "HT3","nethop": "HT3","smp": "HT2","sword": "HT3","axe": "HT3","mace": "HT3"
-    }
-  },
-  {
-    "name": "SneakyCreeper",
-    "region": "AS",
-    "discord_id": 123456789012345678,
-    "verified": true,
-    "tiers": {
-      "ltm": "HT2","vanilla": "HT2","uhc": "HT2","pot": "HT2","nethop": "HT2","smp": "HT2","sword": "HT2","axe": "HT2","mace": "HT2"
-    }
-  },
-  {
-    "name": "EnderKnight",
-    "region": "NA",
-    "discord_id": 923456789012345679,
-    "verified": true,
-    "tiers": {
-      "ltm": "HT1","vanilla": "HT1","uhc": "HT1","pot": "HT1","nethop": "HT1","smp": "HT1","sword": "HT1","axe": "HT1","mace": "HT1"
-    }
-  },
-  {
-    "name": "ObsidianX",
-    "region": "EU",
-    "discord_id": 823456789012345670,
-    "verified": false,
-    "tiers": {
-      "ltm": "HT4","vanilla": "HT4","uhc": "HT4","pot": "HT5","nethop": "HT4","smp": "HT3","sword": "HT4","axe": "HT4","mace": "HT4"
-    }
-  },
-  {
-    "name": "RushMaster",
-    "region": "IN",
-    "discord_id": 723456789012345671,
-    "verified": true,
-    "tiers": {
-      "ltm": "HT2","vanilla": "HT1","uhc": "HT2","pot": "HT2","nethop": "HT2","smp": "HT1","sword": "HT2","axe": "HT1","mace": "HT2"
-    }
-  },
-  {
-    "name": "BowSpamGod",
-    "region": "AS",
-    "discord_id": 623456789012345672,
-    "verified": false,
-    "tiers": {
-      "ltm": "HT3","vanilla": "HT3","uhc": "HT2","pot": "HT3","nethop": "HT3","smp": "HT2","sword": "HT3","axe": "HT3","mace": "HT3"
-    }
-  },
-  {
-    "name": "PvPMonster",
-    "region": "NA",
-    "discord_id": 523456789012345673,
-    "verified": true,
-    "tiers": {
-      "ltm": "HT1","vanilla": "HT1","uhc": "HT1","pot": "HT1","nethop": "HT1","smp": "HT1","sword": "HT1","axe": "HT1","mace": "HT1"
-    }
-  },
-  {
-    "name": "SwiftBlade",
-    "region": "EU",
-    "discord_id": 423456789012345674,
-    "verified": true,
-    "tiers": {
-      "ltm": "HT2","vanilla": "HT2","uhc": "HT2","pot": "HT2","nethop": "HT2","smp": "HT2","sword": "HT2","axe": "HT2","mace": "HT2"
-    }
-  },
-  {
-    "name": "LagMaster69",
-    "region": "IN",
-    "discord_id": 323456789012345675,
-    "verified": false,
-    "tiers": {
-      "ltm": "HT5","vanilla": "HT4","uhc": "HT5","pot": "HT4","nethop": "HT5","smp": "HT4","sword": "HT4","axe": "HT5","mace": "HT5"
-    }
-  },
-  {
-    "name": "AimAssistXD",
-    "region": "AS",
-    "discord_id": 223456789012345676,
-    "verified": true,
-    "tiers": {
-      "ltm": "HT2","vanilla": "HT3","uhc": "HT2","pot": "HT3","nethop": "HT2","smp": "HT2","sword": "HT2","axe": "HT2","mace": "HT3"
-    }
-  },
-  {
-    "name": "BlockClutcher",
-    "region": "EU",
-    "discord_id": 123456789012345679,
-    "verified": true,
-    "tiers": {
-      "ltm": "HT1","vanilla": "HT2","uhc": "HT1","pot": "HT2","nethop": "HT1","smp": "HT1","sword": "HT1","axe": "HT1","mace": "HT2"
-    }
-  },
-  {
-    "name": "SkyWarsKing",
-    "region": "NA",
-    "discord_id": 923456789012345680,
-    "verified": true,
-    "tiers": {
-      "ltm": "HT2","vanilla": "HT2","uhc": "HT2","pot": "HT2","nethop": "HT2","smp": "HT2","sword": "HT2","axe": "HT2","mace": "HT2"
-    }
-  },
-  {
-    "name": "ToxicPvPer",
-    "region": "IN",
-    "discord_id": 823456789012345681,
-    "verified": false,
-    "tiers": {
-      "ltm": "HT3","vanilla": "HT3","uhc": "HT3","pot": "HT3","nethop": "HT3","smp": "HT3","sword": "HT3","axe": "HT3","mace": "HT3"
+      "smp": "LT2",
+      "sword": "LT2",
+      "axe": "LT4",
+      "mace": "HT4"
     }
   }
 ]
